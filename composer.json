@@ -1,0 +1,18 @@
+{
+    "name": "youcode/application-gestion-ecole",
+    "autoload": {
+        "psr-4": {
+            "Youcode\\ApplicationGestionEcole\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "souayrioss",
+            "email": "souayri.oussama@gmail.com"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.4",
+        "symfony/var-dumper": "^6.0"
+    }
+}
