@@ -2,7 +2,8 @@
     "name": "youcode/application-gestion-ecole",
     "autoload": {
         "psr-4": {
-            "Youcode\\ApplicationGestionEcole\\": "src/"
+            "App\\" : "App",
+            "GestionEcole\\": "src"
         }
     },
     "authors": [
