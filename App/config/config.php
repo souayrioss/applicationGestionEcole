@@ -8,4 +8,4 @@ define('APPROOT',dirname(dirname(__FILE__)));
 // URL ROOT
 define('URLROOT', 'http://localhost/applicationGestionEcole');
 // SITE NAME
-define('SITENAME','travers');
+define('SITENAME','GestionEcole');
