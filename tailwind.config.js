@@ -1,10 +1,14 @@
 module.exports = {
   content: [
-      "./views/*.{html,js,php}",
-      "./views/**/*.{html,js,php}"
-  ],
+      "./App/views/.{html,js,php}",
+      "./App/views/**/.{html,js,php}"
+      ],
   theme: {
-    extend: {},
+    extend: {
+      fontFamily:{
+
+      }
+    },
   },
   plugins: [],
 }

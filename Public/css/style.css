@@ -468,6 +468,7 @@ Ensure the default browser behavior of the `hidden` attribute.
   --tw-backdrop-sepia:  ;
 }
 
+<<<<<<< HEAD:views/css/style.css
 .absolute {
   position: absolute;
 }
@@ -488,10 +489,13 @@ Ensure the default browser behavior of the `hidden` attribute.
   z-index: -10;
 }
 
+=======
+>>>>>>> 56852a7392d916de0887d62220b4ebf7807c09fb:Public/css/style.css
 .float-right {
   float: right;
 }
 
+<<<<<<< HEAD:views/css/style.css
 .m-auto {
   margin: auto;
 }
@@ -506,6 +510,8 @@ Ensure the default browser behavior of the `hidden` attribute.
   margin-right: auto;
 }
 
+=======
+>>>>>>> 56852a7392d916de0887d62220b4ebf7807c09fb:Public/css/style.css
 .mx-44 {
   margin-left: 11rem;
   margin-right: 11rem;
@@ -526,8 +532,14 @@ Ensure the default browser behavior of the `hidden` attribute.
   margin-right: 0.75rem;
 }
 
+<<<<<<< HEAD:views/css/style.css
 .mb-6 {
   margin-bottom: 1.5rem;
+=======
+.mx-auto {
+  margin-left: auto;
+  margin-right: auto;
+>>>>>>> 56852a7392d916de0887d62220b4ebf7807c09fb:Public/css/style.css
 }
 
 .mb-20 {
@@ -558,10 +570,13 @@ Ensure the default browser behavior of the `hidden` attribute.
   display: none;
 }
 
+<<<<<<< HEAD:views/css/style.css
 .h-screen {
   height: 100vh;
 }
 
+=======
+>>>>>>> 56852a7392d916de0887d62220b4ebf7807c09fb:Public/css/style.css
 .h-full {
   height: 100%;
 }
@@ -570,6 +585,7 @@ Ensure the default browser behavior of the `hidden` attribute.
   height: 4rem;
 }
 
+<<<<<<< HEAD:views/css/style.css
 .h-56 {
   height: 14rem;
 }
@@ -582,6 +598,8 @@ Ensure the default browser behavior of the `hidden` attribute.
   width: 100%;
 }
 
+=======
+>>>>>>> 56852a7392d916de0887d62220b4ebf7807c09fb:Public/css/style.css
 .w-10 {
   width: 2.5rem;
 }
@@ -594,6 +612,7 @@ Ensure the default browser behavior of the `hidden` attribute.
   flex: 1 1 0%;
 }
 
+<<<<<<< HEAD:views/css/style.css
 .origin-\[0\] {
   transform-origin: 0;
 }
@@ -619,6 +638,8 @@ Ensure the default browser behavior of the `hidden` attribute.
           appearance: none;
 }
 
+=======
+>>>>>>> 56852a7392d916de0887d62220b4ebf7807c09fb:Public/css/style.css
 .items-center {
   align-items: center;
 }
@@ -627,24 +648,35 @@ Ensure the default browser behavior of the `hidden` attribute.
   justify-content: center;
 }
 
+<<<<<<< HEAD:views/css/style.css
 .justify-around {
   justify-content: space-around;
 }
 
+=======
+>>>>>>> 56852a7392d916de0887d62220b4ebf7807c09fb:Public/css/style.css
 .justify-evenly {
   justify-content: space-evenly;
 }
 
+<<<<<<< HEAD:views/css/style.css
 .gap-2 {
   gap: 0.5rem;
 }
 
+=======
+>>>>>>> 56852a7392d916de0887d62220b4ebf7807c09fb:Public/css/style.css
 .gap-80 {
   gap: 20rem;
 }
 
+<<<<<<< HEAD:views/css/style.css
 .gap-20 {
   gap: 5rem;
+=======
+.gap-2 {
+  gap: 0.5rem;
+>>>>>>> 56852a7392d916de0887d62220b4ebf7807c09fb:Public/css/style.css
 }
 
 .gap-y-10 {
@@ -664,14 +696,18 @@ Ensure the default browser behavior of the `hidden` attribute.
   border-radius: 9999px;
 }
 
+<<<<<<< HEAD:views/css/style.css
 .border-0 {
   border-width: 0px;
 }
 
+=======
+>>>>>>> 56852a7392d916de0887d62220b4ebf7807c09fb:Public/css/style.css
 .border-2 {
   border-width: 2px;
 }
 
+<<<<<<< HEAD:views/css/style.css
 .border {
   border-width: 1px;
 }
@@ -684,10 +720,13 @@ Ensure the default browser behavior of the `hidden` attribute.
   border-bottom-width: 2px;
 }
 
+=======
+>>>>>>> 56852a7392d916de0887d62220b4ebf7807c09fb:Public/css/style.css
 .border-r-2 {
   border-right-width: 2px;
 }
 
+<<<<<<< HEAD:views/css/style.css
 .border-gray-300 {
   --tw-border-opacity: 1;
   border-color: rgb(209 213 219 / var(--tw-border-opacity));
@@ -702,6 +741,8 @@ Ensure the default browser behavior of the `hidden` attribute.
   background-color: rgb(29 78 216 / var(--tw-bg-opacity));
 }
 
+=======
+>>>>>>> 56852a7392d916de0887d62220b4ebf7807c09fb:Public/css/style.css
 .bg-blue-500 {
   --tw-bg-opacity: 1;
   background-color: rgb(59 130 246 / var(--tw-bg-opacity));
@@ -712,6 +753,7 @@ Ensure the default browser behavior of the `hidden` attribute.
   background-color: rgb(147 197 253 / var(--tw-bg-opacity));
 }
 
+<<<<<<< HEAD:views/css/style.css
 .bg-blue-400 {
   --tw-bg-opacity: 1;
   background-color: rgb(96 165 250 / var(--tw-bg-opacity));
@@ -719,6 +761,16 @@ Ensure the default browser behavior of the `hidden` attribute.
 
 .p-3 {
   padding: 0.75rem;
+=======
+.bg-blue-700 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(29 78 216 / var(--tw-bg-opacity));
+}
+
+.bg-blue-400 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(96 165 250 / var(--tw-bg-opacity));
+>>>>>>> 56852a7392d916de0887d62220b4ebf7807c09fb:Public/css/style.css
 }
 
 .p-4 {
@@ -729,6 +781,7 @@ Ensure the default browser behavior of the `hidden` attribute.
   padding: 10rem;
 }
 
+<<<<<<< HEAD:views/css/style.css
 .py-2\.5 {
   padding-top: 0.625rem;
   padding-bottom: 0.625rem;
@@ -749,6 +802,8 @@ Ensure the default browser behavior of the `hidden` attribute.
   padding-right: 1.25rem;
 }
 
+=======
+>>>>>>> 56852a7392d916de0887d62220b4ebf7807c09fb:Public/css/style.css
 .py-1 {
   padding-top: 0.25rem;
   padding-bottom: 0.25rem;
@@ -762,16 +817,20 @@ Ensure the default browser behavior of the `hidden` attribute.
   text-align: center;
 }
 
+<<<<<<< HEAD:views/css/style.css
 .text-sm {
   font-size: 0.875rem;
   line-height: 1.25rem;
 }
 
+=======
+>>>>>>> 56852a7392d916de0887d62220b4ebf7807c09fb:Public/css/style.css
 .text-lg {
   font-size: 1.125rem;
   line-height: 1.75rem;
 }
 
+<<<<<<< HEAD:views/css/style.css
 .font-medium {
   font-weight: 500;
 }
@@ -784,6 +843,11 @@ Ensure the default browser behavior of the `hidden` attribute.
 .text-gray-500 {
   --tw-text-opacity: 1;
   color: rgb(107 114 128 / var(--tw-text-opacity));
+=======
+.text-blue-500 {
+  --tw-text-opacity: 1;
+  color: rgb(59 130 246 / var(--tw-text-opacity));
+>>>>>>> 56852a7392d916de0887d62220b4ebf7807c09fb:Public/css/style.css
 }
 
 .text-white {
@@ -791,11 +855,14 @@ Ensure the default browser behavior of the `hidden` attribute.
   color: rgb(255 255 255 / var(--tw-text-opacity));
 }
 
+<<<<<<< HEAD:views/css/style.css
 .text-red-500 {
   --tw-text-opacity: 1;
   color: rgb(239 68 68 / var(--tw-text-opacity));
 }
 
+=======
+>>>>>>> 56852a7392d916de0887d62220b4ebf7807c09fb:Public/css/style.css
 .no-underline {
   -webkit-text-decoration-line: none;
           text-decoration-line: none;
@@ -812,6 +879,7 @@ Ensure the default browser behavior of the `hidden` attribute.
   --tw-shadow: var(--tw-shadow-colored);
 }
 
+<<<<<<< HEAD:views/css/style.css
 .duration-300 {
   transition-duration: 300ms;
 }
@@ -952,6 +1020,9 @@ Ensure the default browser behavior of the `hidden` attribute.
     width: auto;
   }
 
+=======
+@media (min-width: 640px) {
+>>>>>>> 56852a7392d916de0887d62220b4ebf7807c09fb:Public/css/style.css
   .sm\:grid-cols-2 {
     grid-template-columns: repeat(2, minmax(0, 1fr));
   }
@@ -996,6 +1067,7 @@ Ensure the default browser behavior of the `hidden` attribute.
   .xl\:w-1\/6 {
     width: 16.666667%;
   }
+<<<<<<< HEAD:views/css/style.css
 
   .xl\:grid-cols-2 {
     grid-template-columns: repeat(2, minmax(0, 1fr));
@@ -1004,4 +1076,6 @@ Ensure the default browser behavior of the `hidden` attribute.
   .xl\:gap-6 {
     gap: 1.5rem;
   }
+=======
+>>>>>>> 56852a7392d916de0887d62220b4ebf7807c09fb:Public/css/style.css
 }
