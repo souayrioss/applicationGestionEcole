@@ -1,2 +1,2 @@
-<h1 class="text-blue-500">Login PAge</h1>
-<a href="./pages/">login</a>
+<p class="text-blue-500 text-4xl">Login PAge</p>
+<a href="./pages/">loginnn</a>

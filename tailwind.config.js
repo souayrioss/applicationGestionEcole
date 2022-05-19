@@ -1,8 +1,8 @@
 module.exports = {
   content: [
-      "./view/*.{html,js,php}",
-      "./view/**/*.{html,js,php}"
-  ],
+      "./App/views/*.{html,js,php}",
+      "./App/views/**/*.{html,js,php}"
+      ],
   theme: {
     extend: {
       fontFamily:{
