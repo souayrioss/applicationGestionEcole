@@ -34,7 +34,7 @@
                 </li>
                 <li class="mb-5 flex-1 mt-52">
                     <a href="#" class="flex items-center gap-2   text-white no-underline ">
-                     <img class="" src="./img/Arrow.svg" alt="logout"><span class="text-lg hidden md:block">Logout</span>
+                     <img class="" src="<?php echo URLROOT ;?>/img/Arrow.svg" alt="logout"><span class="text-lg hidden md:block">Logout</span>
                     </a>
                  </li>
              </ul>
