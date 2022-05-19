@@ -1,0 +1,11 @@
+.outer{
+    height: 160 px;
+    width: 160 px;
+    border: 3px solid rgb(255, 47, 0);
+
+}
+.inner{
+height: 120 px;
+width: 120 px ;
+border: 1 px solid blue;
+}
