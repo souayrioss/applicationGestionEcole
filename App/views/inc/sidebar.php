@@ -9,7 +9,7 @@
                     </a>
                 <li class=" flex-1 ">
                    <a href="#" class="block  text-grey-darkest no-underline ">
-                  <img class="pb-10 hidden md:block" src="./img/E- School.svg" alt="logo">
+                  <img class="pb-10 hidden md:block" src="<?php echo URLROOT ;?>/img/E- School.svg" alt="logo">
                    </a>
                 </li>
                 <li class="  flex-1  mb-20">
@@ -19,17 +19,17 @@
                  </li>
                 <li class=" mb-5 flex-1">
                    <a href="#" class="flex items-center gap-2  text-white no-underline ">
-                   <img class="" src="./img/Document.svg" alt="statistique"><span class="text-lg hidden md:block">Statistique</span>
+                   <img class="" src="<?php echo URLROOT ;?>/img/Document.svg" alt="statistique"><span class="text-lg hidden md:block">Statistique</span>
                    </a>
                 </li>
                 <li class="mb-5 flex-1">
                    <a href="#" class="flex items-center gap-2  text-white no-underline  ">
-                   <img src="./img/Add.svg" alt="adduser"><span class="text-lg hidden md:block">Add User</span>
+                   <img src="<?php echo URLROOT ;?>/img/Add.svg" alt="adduser"><span class="text-lg hidden md:block">Add User</span>
                    </a>
                 </li>
                 <li class="mb-5 flex-1">
                    <a href="#" class="flex items-center gap-2  text-white no-underline ">
-                    <img src="./img/User.svg" alt="profil"><span class="text-lg hidden md:block">Profil</span>
+                    <img src="<?php echo URLROOT ;?>/img/User.svg" alt="profil"><span class="text-lg hidden md:block">Profil</span>
                    </a>
                 </li>
                 <li class="mb-5 flex-1 mt-52">
