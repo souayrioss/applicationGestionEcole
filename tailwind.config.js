@@ -4,7 +4,11 @@ module.exports = {
       "./view/**/*.{html,js,php}"
   ],
   theme: {
-    extend: {},
+    extend: {
+      fontFamily:{
+
+      }
+    },
   },
   plugins: [],
 }

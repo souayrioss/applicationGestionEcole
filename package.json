@@ -1,11 +1,11 @@
 {
   "name": "applicationgestionecole",
   "version": "1.0.0",
-  "description": "Technologies utilise : PHP(OOP),MVC,JS,ajax,json,MySQL(PDO)",
+  "description": "Technologies utilise : CSS(tailwind),JS,ajax,json,PHP(OOP),MVC,MySQL(PDO)",
   "main": "index.js",
   "scripts": {
-    "tailwindwatch": "npx tailwindcss -i ./views/css/tailwindcss.css -o ./views/css/style.css --watch",
-    "tailwindbuild": "npx tailwindcss -i ./views/css/tailwindcss.css -o ./views/css/style.css --build"
+    "tailwind": "tailwindcss -i ./Public/css/tailwindcss.css -o ./Public/css/style.css --watch",
+    "build": "tailwindcss -i ./Public/css/tailwindcss.css -o ./Public/css/style.css --minify"
   },
   "repository": {
     "type": "git",
