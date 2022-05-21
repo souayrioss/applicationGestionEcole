@@ -2,28 +2,45 @@
 class Pages extends Controller {
     public function __construct()
     {
-        // $this->personModel = $this->model('Person');
+        $this->UserModel = $this->model('User');
     }
     public function index()
     {
-        // $person =$this->personModel->getPerson();
+        $Student =$this->UserModel->getStd();
+        $Teacher =$this->UserModel->getTch();
+        $Cls =$this->UserModel->getCls();
+        $Class =$this->UserModel->getClass();
         $data = [
-
-            'title' => 'M',
-            // 'persons'=> $person,
-            '2'=>'me'
-        ];
+            'Students' => $Student,
+            'Cls' => $Cls,
+            'Class' => $Class,
+            'Teachers' => $Teacher
+            ];
         $this->view('admin/index',$data);
     }
-    public function about()
+    public function addUserPages()
     {
-        $data = [     
-            'title' => 'about page',
-        ];
-        $this->view('admin/about',$data);
+        $Class =$this->UserModel->nameClass();
+        $data = [
+            'Class' => $Class
+            ];
+        $this->view('admin/addUser',$data);
     }
-    public function statistique()
+    public function listUser()
     {
-        $this->view('admin/statistique');
+        $Student =$this->UserModel->getStudent();
+        $Parent =$this->UserModel->getParent();
+        $Teacher =$this->UserModel->getTeacher();
+        $Admin =$this->UserModel->getAdmin();
+        $data = [
+            'Students' => $Student,
+            'Parents' => $Parent,
+            'Teachers' => $Teacher,
+            'Admins' => $Admin
+        ];
+        $this->view('admin/listUser',$data);
+    }
+    public function addUser(){
+        
     }
 }
